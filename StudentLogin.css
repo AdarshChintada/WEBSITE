@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(Marigold yellow, Ice Cold, vista blue); 
+}
+.formdiv{
+    width: 40%;
+    height: 40%;
+    background: linear-gradient(#c6ffdd, #fbd786, #f7797d);
+    margin: auto;
+    margin-top: 0px;
+}
+h2{
+    text-shadow:0 0 2px;
+    font-size:20px ;
+    font-family:cursive,monospace;
+    text-align: center;
+    position:absolute;
+    top: 0px;
+    left: 580px;
+
+}
+
+.tab{
+    padding: 40px;
+    position: absolute;
+    top: 40px;
+}
+.tab tr td{
+    padding: 10px;
+    text-shadow:0 0 3px #fafafa ;
+    font-family:cursive,monospace;
+}
